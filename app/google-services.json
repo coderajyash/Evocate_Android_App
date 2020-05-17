@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "115351967732",
+    "firebase_url": "https://evocate-637c4.firebaseio.com",
+    "project_id": "evocate-637c4",
+    "storage_bucket": "evocate-637c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115351967732:android:6042caf151eb95f50dcba1",
+        "android_client_info": {
+          "package_name": "com.app.evocate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115351967732-lvlpmq0ubah9dflhm15433f0dh2mf3fq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9Xu9x_NnlE43JUizCDqoczfVe3P3ItOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115351967732-lvlpmq0ubah9dflhm15433f0dh2mf3fq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

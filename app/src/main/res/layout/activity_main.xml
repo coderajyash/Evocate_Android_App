@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="18dp"
+    tools:context=".MainActivity"
+    android:background="@drawable/enter_back"
+    android:gravity="center"
+    >
+
+    <TextView
+        android:id="@+id/title"
+        android:textColor="@color/colorAccent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Your Memorable Moments"
+        android:textAlignment="center"
+        android:textSize="26dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/subtitle"
+        android:text="At One Place"
+        android:textSize="22dp"
+        android:paddingTop="11dp"
+        android:paddingBottom="50dp"
+        android:textColor="@color/colorAccent"
+        android:textAlignment="center"/>
+    <Button
+
+        android:layout_width="wrap_content"
+        android:text="Get Started"
+        android:id="@+id/enter_button"
+        android:padding="11dp"
+
+        android:background="@android:color/white"
+        android:layout_height="wrap_content"/>
+</LinearLayout>
